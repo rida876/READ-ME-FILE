@@ -68,7 +68,7 @@ The goal was to predict house prices using different property features.
 
 Housing dataset (CSV file).
 
-### ⚙️ What I did
+###  What I did
 
 * Selected important features like area, bedrooms, etc.
 * Prepared the dataset for training
